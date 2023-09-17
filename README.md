@@ -10,8 +10,8 @@ The current build of the application is only capable of image classification (me
 
 ## Project Contents
 
-1 - Models: Contains the training methdology of the ResNet model used for classification in the application. This includes train-test split methdology, image augmentation training feature and actual model training. The notebook within the folder contains the training of several different models. However, the model with the best AUC was selected also considering the most reasonable train test split that avoids data leakage.
+1 - **Models:** Contains the training methdology of the ResNet model used for classification in the application. This includes train-test split methdology, image augmentation training feature and actual model training. The notebook within the folder contains the training of several different models. However, the model with the best AUC was selected also considering the most reasonable train test split that avoids data leakage.
 
-2 - streamlit_web_app: Contains the Initial build of the application using StreamLit and having the best found model.
+2 - **streamlit_web_app:** Contains the Initial build of the application using StreamLit and having the best found model.
 
-3 - Reports: Contains the final deck presented to the jury. 
+3 - **Reports:** Contains the final deck presented to the jury. 
