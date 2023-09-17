@@ -2,6 +2,10 @@
 ## Authors
 The project is done by [Leonardo Bassili](https://github.com/leobas0), [Antoine Cloute](https://github.com/AntAI-git), [Karim El Hage](https://github.com/karimelhage),[Yasmina Hobeika](https://github.com/yasminahobeika), [Annabelle Luo](https://github.com/annabelleluo), [Ali Najem](https://github.com/najemali), [Amine Zaamoun](https://github.com/Zaamine) for a  Hackathon in partnership with Mckinsey & Company Quantum: Black. The team has awarded **Second Place** for it's work by the jury.
 
+<a href="https://github.com/yasminahobeika/Methane_Leak_Detection_in_Satellite_Imagery/graphs/contributors"> 
+  <img src="https://contrib.rocks/image?repo=yasminahobeika/Methane_Leak_Detection_in_Satellite_Imagery" />
+</a>
+
 ## Objective
 The objective of the project is to develop an application capable of detecting methane leaks in provided satellite imagery  to assist with MRV: monitoring, reporting, and verification.
 
