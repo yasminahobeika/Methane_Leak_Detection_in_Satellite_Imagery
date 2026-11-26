@@ -1,6 +1,7 @@
 # Methane Leak Detection in Satellite Imagery Using ResNet 
+
 ## Authors
-The project is done by [Leonardo Bassili](https://github.com/leobas0), [Antoine Cloute](https://github.com/AntAI-git), [Karim El Hage](https://github.com/karimelhage), [Yasmina Hobeika](https://github.com/yasminahobeika), [Annabelle Luo](https://github.com/annabelleluo), [Ali Najem](https://github.com/najemali), [Amine Zaamoun](https://github.com/Zaamine) for a  Hackathon in partnership with Mckinsey & Company Quantum: Black. The team has awarded **Second Place** for it's work by the jury.
+The project was co-built by [Leonardo Bassili](https://github.com/leobas0), [Antoine Cloute](https://github.com/AntAI-git), [Karim El Hage](https://github.com/karimelhage), [Yasmina Hobeika](https://github.com/yasminahobeika), [Annabelle Luo](https://github.com/annabelleluo), [Ali Najem](https://github.com/najemali), [Amine Zaamoun](https://github.com/Zaamine) for a Hackathon organized by QuantumBlack, AI by McKinsey. Our team has been awarded **Second Prize** for its work by the jury.
 
 <a href="https://github.com/yasminahobeika/Methane_Leak_Detection_in_Satellite_Imagery/graphs/contributors"> 
   <img src="https://contrib.rocks/image?repo=yasminahobeika/Methane_Leak_Detection_in_Satellite_Imagery" />
@@ -10,7 +11,7 @@ The project is done by [Leonardo Bassili](https://github.com/leobas0), [Antoine 
 The objective of the project is to develop an application capable of detecting methane leaks in provided satellite imagery  to assist with MRV: monitoring, reporting, and verification.
 
 ## Current Build
-The current build of the application is only capable of image classification (methane leak or no methane leak). There is also a GradCAM functionality capable to give a form of interpretability to the results.
+The current build of the application is only capable of image classification (methane leak or no methane leak). There is also a GradCAM functionality capable to help with interpretation of the results.
 
 ## Project Contents
 
